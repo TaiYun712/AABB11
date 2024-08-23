@@ -6,7 +6,7 @@ namespace AABB11
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("YEE~");
+            Console.WriteLine("好想睡");
         }
     }
 }
